@@ -1,0 +1,29 @@
+{
+  "name": "@houdini473/rrule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.cjs.js",
+  "module": "main.js",
+  "types": "main.d.ts",
+  "jsdelivr": "main.global.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houdini473/fullcalendarRrule.git"
+  },
+  "author": "Jaocb March",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houdini473/fullcalendarRrule/issues"
+  },
+  "homepage": "https://github.com/Houdini473/fullcalendarRrule#readme",
+  "dependencies": {
+    "@houdini473/common": "^1.0.1",
+    "tslib": "^1.14.1"
+  },
+  "peerDependencies": {
+    "rrule": "^2.6.8"
+  }
+}
